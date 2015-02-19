@@ -1,0 +1,37 @@
+<div class='container'>
+	<div class="input-block">
+		<label for="">Subscribe Channel Name</label>
+		<input type="text" ng-model="pubnub.subscribe.channel">
+	</div>
+	<div class='button-block'>
+		<button ng-click='pubnub.subscribe()'>Subscribe</button>	
+	</div>
+	<div class="input-block">
+		<label for="">Publish Channel name </label>
+		<input type="text" ng-model="pubnub.publish.channel">
+	</div>
+	<div class="input-block">
+		<label for="">Call Id</label>
+		<input type="text" ng-model="pubnub.publish.data.CallSid">
+	</div>
+	<div class="input-block">
+		<label for="">Call status</label>
+		<input type="text" ng-model="pubnub.publish.data.Status">
+	</div>
+	<div class="input-block">
+		<label for="">Call A Number</label>
+		<input type="text" ng-model="pubnub.publish.data.From">
+	</div>
+	<div class="input-block">
+		<label for="">Call B number</label>
+		<input type="text" ng-model="pubnub.publish.data.To">
+	</div>
+	<div class="button-block">
+		<button ng-click="pubnub.publish()">Publish</button>
+	</div>
+</div>
+<div class='results'>
+	<ul>
+		<li ng-repeat="item in pubnub.list">{{::item.message}}</li>
+	</ul>
+</div>

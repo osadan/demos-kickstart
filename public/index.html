@@ -1,10 +1,21 @@
-<html>
+sub<html>
 <head>
+	<script src='/services/pubnub.js'></script>
 	<script src='/libs/angular/angular.js'></script>
+	<script src='/libs/angular-animate/angular-animate.js'></script>
+	<script src='/libs/angular-modal-service/dst/angular-modal-service.js'></script>
+	<script src='/libs/angular-ui-router/release/angular-ui-router.js'></script>
+	<script src='/libs/lodash/dist/lodash.js'></script>
+	<script src='/libs/pubnub-angular/lib/pubnub-angular.js'></script>
 	<script src='/script.js'></script>
+	<script src='/controllers/pubnub.controller.js'></script>
+	<script src='directives/menu/menu.directive.js'></script>
+
 	<link rel="stylesheet" type="text/css" href="/style.css">
 </head>
 <body ng-app='demo' ng-controller='demoController'>
 	{{message}}
+	<div menu></div>
+	 <div ui-view></div>
 </body>
 </html>
