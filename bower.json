@@ -12,11 +12,16 @@
   ],
   "dependencies": {
     "angular-animate": "~1.x.x",
-    "angular" : "~1.x.x",
-    "angular-ui-router" : "~0.2.x",
+    "angular": "~1.x.x",
+    "angular-ui-router": "~0.2.x",
     "lodash": "~2.4.x",
     "angular-modal-service": "~0.5.0",
-    "angular-locker": "~1.1.1",
-    "pubnub-angular": "~1.1.0"
+    "angular-locker": "~1.2.1",
+    "pubnub-angular": "~1.1.0",
+    "json-tree": "~0.1.2",
+    "ng-prettyjson": "~0.1.8"
+  },
+  "resolutions": {
+    "angular-locker": "~1.2.1"
   }
 }

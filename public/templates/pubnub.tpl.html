@@ -16,7 +16,12 @@
 	</div>
 	<div class="input-block">
 		<label for="">Call status</label>
-		<input type="text" ng-model="pubnub.publish.data.Status">
+		<select ng-model='pubnub.publish.data.CallStatus'>
+			<option value="Ringing">Ringing</option>
+			<option value="Answerd">Answerd</option>
+			<option value="Done">Done</option>
+			<option value="MissedCall">MissedCall</option>
+		</select>
 	</div>
 	<div class="input-block">
 		<label for="">Call A Number</label>

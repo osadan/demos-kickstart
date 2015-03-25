@@ -1,7 +1,15 @@
 ;(function () {
 	'use strict';
-
-	angular.module('demo',['ui.router','ngAnimate',"pubnub.angular.service",'angularModalService'])
+	angular.module('oss',[])
+		.provider('contacts', oss.service.contacts)
+	angular.module('demo',[
+		'oss',
+		'ui.router',
+		'ngAnimate',
+		"pubnub.angular.service",
+		'angularModalService',
+		'ngPrettyJson'
+		])
 		.config(["$stateProvider",function($stateProvider){
 			$stateProvider
 				.state('main',{
@@ -12,6 +20,12 @@
 					templateUrl : '/templates/pubnub.tpl.html',
 					controller : 'pubNubController',
 					controllerAs : 'pubnub'				
+				})
+				.state('contacts',{
+					url : "/contacts",
+					templateUrl : '/templates/contacts.tpl.html',
+					controller : 'contactsController',
+					controllerAs : 'contacts'
 				})
 		}])
 		.run([function(){
