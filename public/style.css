@@ -1,1 +1,13 @@
-aaaa
+.panel-wrapper{
+	display:flex;
+}
+.panel {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+}
+video{
+	width:250px;
+	height:250px;
+}

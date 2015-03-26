@@ -1,0 +1,43 @@
+<div class="container">
+	<div class='panel'>
+		<input type='text' ng-model='contacts.groupId'/>
+	</div>
+	<div class="box">
+		<button ng-click='contacts.checkAuth()'>Get Token</button>
+		<button ng-click='contacts.getContacts()'>Get Contacts</button>
+		<button ng-click='contacts.getGroups()'>Get Groups</button>
+	</div>
+	<div>
+		<input type='text' ng-model='contacts.searchQuery' />
+		<button ng-click='contacts.search()'>Search</button>
+	</div>
+	<div class="results">
+		<div class='oauth-data'>
+			<ul>
+				<li ng-repeat="(key,value) in contacts.token">
+					{{key}}:{{value}}
+				</li>
+			</ul>
+		</div>
+		<div class='groups-display'>
+			<h4>groups</h4>
+			<ul>
+				<li ng-repeat="groupItem in contacts.groups">
+					<a href ng-click='contacts.displayGroup($event)' data-itemid='{{groupItem.id}}'>{{groupItem.title}}</a>
+					<span ng-show="groupItem.isSystemGroup">*</span>
+				<li>	
+			</ul>
+		</div>
+		<div class='contacts-display'>
+			<h4>contacts</h4>
+			<ul>
+				<li ng-repeat="item in contacts.contacts">
+					<span>{{item.name}}</span>
+					<span>{{item.email}}</span>
+			
+					<img src='{{::contacts.imagePath(item.link[0])}}' rel='{{item.link[0].rel}}' gd:etag="{{item.link[0].gd$etag}}" ng-if="item.link && item.link[0].gd$etag" />
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

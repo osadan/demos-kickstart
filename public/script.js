@@ -27,6 +27,12 @@
 					controller : 'contactsController',
 					controllerAs : 'contacts'
 				})
+				.state("webrtc",{
+					url : '/webrtc',
+					templateUrl  : "/templates/webrtc.tpl.html",
+					controller : "webrtcController",
+					controllerAs : "webrtc"
+				})
 		}])
 		.run([function(){
 			console.log('app start running');

@@ -1,0 +1,1620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"group",
+				"groupList"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"flexb",
+				"flexbox-center"
+			],
+			[
+				"flex",
+				"flexbox-center"
+			],
+			[
+				"getUser",
+				"getUserDetails	user.service.js"
+			],
+			[
+				"modu",
+				"module(name, requires, configFn)	angular.js"
+			],
+			[
+				"webAp",
+				"webAppMainController"
+			],
+			[
+				"varic",
+				"varificationCode	index.js"
+			],
+			[
+				"login",
+				"loginBackground"
+			],
+			[
+				"content",
+				"content-container"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"httpBe",
+				"httpBackend"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"company",
+				"companyName"
+			],
+			[
+				"old",
+				"oldCompanyName"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"deparli",
+				"departmentsList"
+			],
+			[
+				"api",
+				"apiVersion	routes_v2.js"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"departm",
+				"departmentsList	company.service.js"
+			],
+			[
+				"debounce",
+				"debounce(func, wait, immediate)	underscore.js"
+			],
+			[
+				"de",
+				"debounce	Debounced function"
+			],
+			[
+				"reduce",
+				"reduce(arr, fn, initial)	index.js"
+			],
+			[
+				"string",
+				"stringify(builder)	root.js"
+			],
+			[
+				"controller",
+				"controllerAs"
+			],
+			[
+				"base64u",
+				"base64urlEncode(value)	index.js"
+			],
+			[
+				"base6",
+				"base64urlEncode(value)	index.js"
+			],
+			[
+				"getElementBy",
+				"getElementsByTagName('aSome')"
+			],
+			[
+				"depar",
+				"departments-options"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"kara",
+				"karmaConf"
+			],
+			[
+				"getNumbersf",
+				"getNumbersFromServer()	setup.service.js"
+			],
+			[
+				"valueT",
+				"valueToLower"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"function",
+				"functions(object)	lodash.compat.js"
+			],
+			[
+				"number",
+				"numbers-region"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"build",
+				"build_path"
+			],
+			[
+				"min",
+				"minifyAppJs"
+			],
+			[
+				"live",
+				"liveReload"
+			],
+			[
+				"ele",
+				"elementIndex"
+			],
+			[
+				"elm",
+				"elementIndex"
+			],
+			[
+				"secc",
+				"sectionConstraints"
+			],
+			[
+				"start",
+				"start_index"
+			],
+			[
+				"sectiopa",
+				"sectionPairs"
+			],
+			[
+				"ne",
+				"newIndex"
+			],
+			[
+				"is",
+				"isSectionOpen"
+			],
+			[
+				"section",
+				"sectionPairItem"
+			],
+			[
+				"drop",
+				"droppedPosition"
+			],
+			[
+				"sec",
+				"sectioOpen"
+			],
+			[
+				"elemen",
+				"elementIndex"
+			],
+			[
+				"chec",
+				"checkSectionConstarints"
+			],
+			[
+				"app",
+				"appartment_number"
+			],
+			[
+				"Appa",
+				"AppartmentSchema"
+			],
+			[
+				"appat",
+				"appartment_exist"
+			],
+			[
+				"appartment",
+				"appartment_exist"
+			],
+			[
+				"A",
+				"Appartment"
+			],
+			[
+				"bui",
+				"building_id"
+			],
+			[
+				"buil",
+				"building_number"
+			],
+			[
+				"bo",
+				"boxSizeWidth"
+			],
+			[
+				"fin",
+				"findPriceString"
+			],
+			[
+				"appe",
+				"appendBackHtml"
+			],
+			[
+				"crea",
+				"createDiv"
+			],
+			[
+				"creat",
+				"createElement"
+			],
+			[
+				"new",
+				"NewPostsListController"
+			],
+			[
+				"Posts",
+				"PostsListController"
+			],
+			[
+				"comen",
+				"commentAttributes"
+			],
+			[
+				"comme",
+				"commentAttributes"
+			],
+			[
+				"sach",
+				"sacha"
+			],
+			[
+				"on",
+				"onBeforeAction"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"post",
+				"postAttributes"
+			],
+			[
+				"po",
+				"postAttributes"
+			],
+			[
+				"pos",
+				"postWithSameLink"
+			],
+			[
+				"Famil",
+				"FamilyModel"
+			],
+			[
+				"showAl",
+				"showAllFamilies"
+			],
+			[
+				"show",
+				"showAllDrivers"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"net",
+				"networks_marchent_name"
+			],
+			[
+				"pic",
+				"picSaveName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/services/contacts.service.js",
+			"settings":
+			{
+				"buffer_size": 7349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/contacts.tpl.html",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/controllers/contacts.controller.js",
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/script.js",
+			"settings":
+			{
+				"buffer_size": 880,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gulp ",
+				"Gulp"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"Gulp",
+				"Gulp"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"Packs",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Git",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"close",
+				"File: Close All"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Gulp",
+			"gulp",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ohad1/Documents/projects/demos/angular/app",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/libs",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/libs/ng-prettyjson",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/libs/ng-prettyjson/src",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/services",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates"
+	],
+	"file_history":
+	[
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/index.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/index.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-util/lib/isNull.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/chambers-of-commerce-root-2008.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/config.rb",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/index.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/dst-aces-ca-x6.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-util/node_modules/.bin/dateformat",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/utils.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/libs/pubnub-angular/lib/pubnub-angular.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/services.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/templates/call-modal.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/controllers/call-modal.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/fonedo/call-display-handler.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/webapp/call-history.scss",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/call/call.scss",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/certinomis-autorité-racine.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/fonedo/normal/libs/pubnub-angular.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/pubnub.min.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/libs/Sortable/meteor/publish.sh",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/source-map/build/prefix-utils.jsm",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/package.json",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/call-log.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/user.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/controllers/webAppDialer.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/directives/recivingControl/reciving-control.directive.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/directives/onCallControl/on-call-controll.directive.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/directives/recivingControl/reciving-control.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/templates/dialer.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/call-display-handler.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/directives/onCallControl/on-call-controll.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/config.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/filters/webapp.filters.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/gulpfile.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/hellenic-academic-and-research-institutions-rootca-2011.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/connect-livereload/.idea/connect-livereload.iml",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/connect-livereload/LICENSE",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/libs/angular-modal-service/dst/angular-modal-service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/config-defs.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/nodemon/node_modules/update-notifier/node_modules/configstore/node_modules/js-yaml/node_modules/.bin/esparse",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/nodemon/node_modules/update-notifier/node_modules/configstore/node_modules/.bin/user-home",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/call/directives/callActionButton/call-action-button.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/e-guven-kok-elektronik-sertifika-hizmet-saglayicisi.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/dialogic.webrtc.client.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/controllers/webAppCallHistory.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/nodemon/lib/monitor/offset.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/test/core/simple/test-http-eof-on-connect.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-bower/node_modules/bower/lib/util/removeIgnores.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-tar/node_modules/archiver/node_modules/lodash/internal/reEvaluate.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/memoizee/lib/registered-extensions.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/server/routes.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-tar/node_modules/archiver/node_modules/lodash/internal/reInterpolate.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/controllers/webAppMain.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/connect-livereload/.idea/workspace.xml",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/controllers/webAppAddons.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/express/lib/application.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/affirmtrust-premium.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/AUTHORS",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-angular-templatecache/node_modules/event-stream/node_modules/through/test/auto-destroy.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/chai/lib/chai/utils/addProperty.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/css/webapp/dialer.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/style.scss",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/xms-manager.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/node_modules/request/node_modules/mime/types/node.types",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-gzip/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._escapehtmlchar/node_modules/lodash._htmlescapes/LICENSE.txt",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-ruby-sass/node_modules/glob/node_modules/once/once.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/.bin/nodemon",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/glob/test/new-glob-optional-options.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/libs/Sortable/ng-sortable.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/connect/node_modules/serve-index/public/style.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/connect/node_modules/errorhandler/public/style.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/fonedo/min/css/style.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/css/style.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/log4js/test/subcategories-test.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest/tests/test-headers.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-express/node_modules/tiny-lr/scripts/post-change",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-clean/node_modules/through2/node_modules/xtend/node_modules/object-keys/shim.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/company.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/test/usersList.spec.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/setup.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupStageTwo.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/site/login.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/site/templates/login.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/auth.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/core/usersList.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/server/routes_v2.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/libs/angular-locker/dist/angular-locker.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-bower/node_modules/bower/node_modules/lockfile/lockfile.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/lib/location.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/optimist/example/line_count_options.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/body-parser/LICENSE",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/nodemon/doc/cli/authors.txt",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-angular-templatecache/node_modules/gulp-header/.editorconfig",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/digicert-assured-id-root-ca.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupStageThree.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupStageOne.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupStageFour.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupMain.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/site/site.controller.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/docs/CallController.php",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-scp2/node_modules/scp2/node_modules/glob/test/root.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/verisign-class-1-public-primary-certification-authority.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/chai/CONTRIBUTING.md",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/test/ws/routing-table-test.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/test/http/routing-table-test.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/lib/node-http-proxy/routing-proxy.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/utn-datacorp-sgc-root-ca.pem",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/setup.scss",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/server.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/sublime-gulp.log",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/.bin/gulp",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/chai/lib/chai/utils/objDisplay.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/memoizee/ext/dispose.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/dailer/.bowerrc",
+		"/Users/ohad1/Documents/projects/fonedo/development/dailer/bower.json",
+		"/Users/ohad1/Documents/projects/fonedo/development/dailer/public/index.thnl",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/directives/callLogRow/call-log-row.tpl.html",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/artifacts/normal/normal/src/core/call-log.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/webApp/directives/callLogRow/call-log-row.directive.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/fonedo/normal/css/webapp/call-history.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/artifacts/normal/normal/css/webapp/call-history.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/build/fonedo/normal/src/core/call-log.service.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/test/company.spec.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/css/login.css",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/login.scss",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/optimist/example/xup.js",
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/css/call/call.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ohad1/Documents/projects/fonedo/development/client/public,*.js",
+			"/Users/ehud/Documents/projects/fonedo/development/client/public,*.js",
+			"/Users/ehud/Documents/projects/fonedo/development/client/public,*.scss",
+			"/Users/ehud/Documents/projects/fonedo/development/client/public,*.js",
+			"/Users/ehud/Documents/projects/fonedo/development/client/public",
+			"<project>/public/*.js",
+			"<project>,*.js",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"register",
+			"createOffer",
+			"setLocalSDP",
+			"sdp",
+			"$rootScope.$bro",
+			"$rootScope.br",
+			"\"Access-Control-Request-Headers\"",
+			"Access-Control-Request-Headers",
+			"Access-Control-Allow-Origin",
+			"CallStatus",
+			"self.properties.ringingHandler",
+			"controllerAs",
+			"$scope",
+			"=",
+			"conosle",
+			"console",
+			"hold",
+			"getUpdated",
+			"getUpdatedUsers",
+			"getNumbersPath",
+			"dtmf",
+			"e.stateTransition(",
+			"sUtils.setAuthHeader",
+			"$log.debug",
+			"debug(\"ok",
+			"debug('ok",
+			"ok",
+			"gray",
+			"version",
+			"'.",
+			"copyAppJs",
+			"liner",
+			"gardi",
+			"linear-gard",
+			"select-number-row",
+			"infiniteScrollImmediateCheck ",
+			"immediateCheck",
+			"InfiniteScroll",
+			"infiniteScroll",
+			"InfiniteScroll",
+			"infiniteScroll",
+			"InfiniteScroll",
+			"infiniteScroll",
+			"InfiniteScroll",
+			"infiniteScroll",
+			"InfiniteScroll",
+			"infiniteScroll",
+			"InfiniteScroll",
+			"infiniteScroll",
+			"\\\"missedCall\\\"",
+			"Mark Johnson",
+			"z-index",
+			"reciving",
+			"data",
+			"<label",
+			"dailer.open",
+			"span class=\"text\"",
+			"<div class='text'><span></span>",
+			"</button>",
+			"button-wrapper",
+			": ",
+			"flex",
+			": ",
+			"flexbox-center",
+			":",
+			": ",
+			":",
+			"align-items",
+			"sUser",
+			"routingConfig",
+			"access",
+			"Access",
+			"access",
+			".provider",
+			"sUser",
+			"validation-strip",
+			"entity-",
+			"icon",
+			"margin-bottom",
+			"box-content",
+			"stage4",
+			"stageFour",
+			"setTokenHeader",
+			"token",
+			"transition",
+			"input",
+			"image-placeholder",
+			"image",
+			"usersService",
+			"sUsers",
+			"login-input",
+			"self",
+			"sSetup",
+			"fonedo",
+			"mainmenutype",
+			"button",
+			"detail",
+			"li",
+			"ul",
+			"graph-column-",
+			"grid",
+			"video-overlay",
+			"height",
+			"600",
+			"height:600",
+			"console.log",
+			"console.log('loaded')",
+			"console.log",
+			"orderList",
+			"getUsersNotInDepartment",
+			"validation",
+			"index",
+			"updateUsers",
+			"cretat",
+			"window",
+			"emptyUserObject",
+			"isContinue",
+			"self",
+			"getdepart",
+			"forword",
+			"number",
+			"companyName",
+			"epartmentid",
+			"$scope.addUser",
+			"addUser",
+			"showModal(department",
+			"departmentName",
+			"usersList"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"usersListService",
+			"sUsersList"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/services/contacts.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3501,
+								3501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 4.0,
+						"translation.y": 937.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/templates/contacts.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/controllers/contacts.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.gulp_output":
+	{
+		"height": 352.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"public/index.html"
+			],
+			[
+				"contacts.con",
+				"public/controllers/contacts.controller.js"
+			],
+			[
+				"",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"config",
+				"public/src/core/config.service.js"
+			],
+			[
+				"index",
+				"public/index.js"
+			],
+			[
+				"dail",
+				"public/src/core/dialogic.webrtc.client.js"
+			],
+			[
+				"call-moda",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"ser",
+				"public/src/app/services.js"
+			],
+			[
+				"call-dis",
+				"public/src/core/call-display-handler.service.js"
+			],
+			[
+				"pubnu",
+				"public/libs/pubnub-angular/lib/pubnub-angular.js"
+			],
+			[
+				"call-",
+				"build/fonedo/call-display-handler.service.js"
+			],
+			[
+				"xms",
+				"public/src/core/xms-manager.service.js"
+			],
+			[
+				"utils",
+				"public/src/core/utils.service.js"
+			],
+			[
+				"service",
+				"public/src/app/services.js"
+			],
+			[
+				"webappd",
+				"public/src/app/components/webApp/controllers/webAppDialer.controller.js"
+			],
+			[
+				"call-displ",
+				"public/src/core/call-display-handler.service.js"
+			],
+			[
+				"call-dsip",
+				"build/fonedo/call-display-handler.service.js"
+			],
+			[
+				"confi",
+				"public/src/core/config.service.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"config.ser",
+				"public/src/core/config.service.js"
+			],
+			[
+				"callmoda",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"webapp",
+				"public/src/app/components/webApp/controllers/webAppDialer.controller.js"
+			],
+			[
+				"disp",
+				"public/src/core/call-display-handler.service.js"
+			],
+			[
+				"call-modal",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"calldis",
+				"public/src/core/call-display-handler.service.js"
+			],
+			[
+				"callhist",
+				"public/src/app/components/webApp/controllers/webAppCallHistory.controller.js"
+			],
+			[
+				"on-cal",
+				"public/src/app/components/call/directives/onCallControl/on-call-controll.directive.js"
+			],
+			[
+				"on-ca",
+				"public/src/app/components/call/directives/onCallControl/on-call-controll.tpl.html"
+			],
+			[
+				"revi.tp",
+				"public/src/app/components/call/directives/recivingControl/reciving-control.tpl.html"
+			],
+			[
+				"recivi",
+				"public/src/app/components/call/directives/recivingControl/reciving-control.directive.js"
+			],
+			[
+				"webap.f",
+				"public/src/app/filters/webapp.filters.js"
+			],
+			[
+				"appdailer.tpl",
+				"public/src/app/components/webApp/templates/dialer.tpl.html"
+			],
+			[
+				"dailer.con",
+				"public/src/app/components/webApp/controllers/webAppDialer.controller.js"
+			],
+			[
+				"user",
+				"public/src/core/user.service.js"
+			],
+			[
+				"call.sc",
+				"public/sass/call/call.scss"
+			],
+			[
+				"oncall",
+				"public/src/app/components/call/directives/onCallControl/on-call-controll.directive.js"
+			],
+			[
+				"style.c",
+				"public/sass/style.scss"
+			],
+			[
+				"call-man",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"xms-",
+				"public/src/core/xms-manager.service.js"
+			],
+			[
+				"auth",
+				"public/src/core/auth.service.js"
+			],
+			[
+				"locker",
+				"public/libs/angular-locker/dist/angular-locker.js"
+			],
+			[
+				"auth.",
+				"public/src/core/auth.service.js"
+			],
+			[
+				"dailog",
+				"public/src/core/dialogic.webrtc.client.js"
+			],
+			[
+				"index.",
+				"public/index.js"
+			],
+			[
+				"login",
+				"public/src/app/components/site/templates/login.tpl.html"
+			],
+			[
+				"xms-m",
+				"public/src/core/xms-manager.service.js"
+			],
+			[
+				"dailo",
+				"public/src/core/dialogic.webrtc.client.js"
+			],
+			[
+				"setupcontro.",
+				"public/src/app/components/setup/setupStageTwo.controller.js"
+			],
+			[
+				"setup",
+				"public/src/core/setup.service.js"
+			],
+			[
+				"rout",
+				"server/routes_v2.js"
+			],
+			[
+				"userlist",
+				"public/src/core/usersList.service.js"
+			],
+			[
+				"user.sre",
+				"public/src/core/user.service.js"
+			],
+			[
+				"index.j",
+				"public/index.js"
+			],
+			[
+				"auth.ser",
+				"public/src/core/auth.service.js"
+			],
+			[
+				"company",
+				"public/src/core/company.service.js"
+			],
+			[
+				"display",
+				"public/src/core/call-display-handler.service.js"
+			],
+			[
+				"xmsm",
+				"public/src/core/xms-manager.service.js"
+			],
+			[
+				"con",
+				"public/src/core/config.service.js"
+			],
+			[
+				"dialogi",
+				"public/src/core/dialogic.webrtc.client.js"
+			],
+			[
+				"call-log",
+				"public/src/core/call-log.service.js"
+			],
+			[
+				"call-lo",
+				"build/artifacts/normal/normal/src/core/call-log.service.js"
+			],
+			[
+				"rotue",
+				"server/routes_v2.js"
+			],
+			[
+				"dialogin",
+				"public/src/core/dialogic.webrtc.client.js"
+			],
+			[
+				"serve",
+				"server.js"
+			],
+			[
+				"servi",
+				"public/src/app/services.js"
+			],
+			[
+				"use.s",
+				"public/src/core/user.service.js"
+			],
+			[
+				"call-mod",
+				"public/src/app/components/call/templates/call-modal.tpl.html"
+			],
+			[
+				"logincon",
+				"public/src/app/components/site/login.controller.js"
+			],
+			[
+				"callmodal",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"calldisp",
+				"public/src/core/callDisplayHandler.service.js"
+			],
+			[
+				"conifg.s",
+				"public/src/core/config.service.js"
+			],
+			[
+				"callmod",
+				"public/src/app/components/call/controllers/call-modal.controller.js"
+			],
+			[
+				"calld",
+				"public/src/core/callDisplayHandler.service.js"
+			],
+			[
+				"rou",
+				"server/routes_v2.js"
+			],
+			[
+				"serv",
+				"public/src/app/services.js"
+			],
+			[
+				"ro",
+				"server/routes_v2.js"
+			],
+			[
+				"hist.js",
+				"server/mockData/history.js"
+			],
+			[
+				"config.",
+				"public/src/core/config.service.js"
+			],
+			[
+				"index.h",
+				"public/index.html"
+			],
+			[
+				"appmentpl",
+				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
+			],
+			[
+				"call.",
+				"public/sass/call/call.scss"
+			],
+			[
+				"menu",
+				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
+			],
+			[
+				"call-lo-t",
+				"public/src/app/components/webApp/directives/callLogRow/call-log-row.tpl.html"
+			],
+			[
+				"callr",
+				"public/src/app/components/webApp/directives/callLogRow/call-log-row.directive.js"
+			],
+			[
+				"parti",
+				"public/sass/_partial.scss"
+			],
+			[
+				"hist.cont",
+				"public/src/app/components/webApp/controllers/webAppCallHistory.controller.js"
+			],
+			[
+				"call.servi",
+				"public/src/core/call-log.service.js"
+			],
+			[
+				"call",
+				"public/sass/webapp/call-history.scss"
+			],
+			[
+				"histoyr.tpl",
+				"public/src/app/components/webApp/templates/call-history.tpl.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"_parti",
+				"public/sass/_partial.scss"
+			],
+			[
+				"menu.s",
+				"public/sass/webapp/menu.scss"
+			],
+			[
+				"_par",
+				"public/sass/_partial.scss"
+			],
+			[
+				"call-row",
+				"public/src/app/components/webApp/directives/callLogRow/call-log-row.tpl.html"
+			],
+			[
+				"call.tpl",
+				"public/src/app/components/webApp/templates/call-history.tpl.html"
+			],
+			[
+				"modalac",
+				"public/src/app/components/setup/modalAccountingDepartments.controller.js"
+			],
+			[
+				"usersli",
+				"public/src/core/usersList.service.js"
+			],
+			[
+				"userslis",
+				"test/usersList.spec.js"
+			],
+			[
+				"stage3boy",
+				"public/src/app/components/setup/templates/stage3Body.tpl.html"
+			],
+			[
+				"4bo",
+				"public/src/app/components/setup/templates/stage4Body.tpl.html"
+			],
+			[
+				"3bod",
+				"public/src/app/components/setup/templates/stage3Body.tpl.html"
+			],
+			[
+				"3tit",
+				"public/src/app/components/setup/templates/stage3Title.tpl.html"
+			],
+			[
+				"flexbox",
+				"public/sass/_flexbox.scss"
+			],
+			[
+				"address-sear",
+				"public/src/app/directives/addressSearchBox/address-search-box.tpl.html"
+			],
+			[
+				"2titl",
+				"public/src/app/components/setup/templates/stage2Title.tpl.html"
+			],
+			[
+				"2boy",
+				"public/src/app/components/setup/templates/stage2Body.tpl.html"
+			],
+			[
+				"1titl",
+				"public/src/app/components/setup/templates/stage1Title.tpl.html"
+			],
+			[
+				"body",
+				"public/src/app/components/setup/templates/stage1Body.tpl.html"
+			],
+			[
+				"menu.tpl",
+				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
+			],
+			[
+				"style.sc",
+				"public/sass/style.scss"
+			],
+			[
+				"menu.t",
+				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
+			],
+			[
+				"infin",
+				"public/libs/ngInfiniteScroll/build/ng-infinite-scroll.js"
+			],
+			[
+				"index.js",
+				"public/index.js"
+			],
+			[
+				"index.html",
+				"public/index.html"
+			],
+			[
+				"call-log.ser",
+				"public/src/core/call-log.service.js"
+			],
+			[
+				"utils.",
+				"public/src/core/utils.service.js"
+			],
+			[
+				"2body",
+				"public/src/app/components/setup/templates/stage2Body.tpl.html"
+			],
+			[
+				"setup.tp",
+				"public/src/app/components/setup/templates/setup.tpl.html"
+			],
+			[
+				"site.tpl.",
+				"public/src/app/components/site/templates/site.tpl.html"
+			],
+			[
+				"index.htm",
+				"public/index.html"
+			],
+			[
+				"flexbo",
+				"public/sass/_flexbox.scss"
+			],
+			[
+				"style",
+				"public/sass/style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/projects/yad_ezrah/apartments/angular_seed/appartments.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
