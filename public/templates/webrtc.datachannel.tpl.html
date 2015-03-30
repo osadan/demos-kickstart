@@ -1,0 +1,16 @@
+<h3>Web Rtc Data Channel</h3>
+<div class='buttons-panel'>	
+	<button id="startButton" ng-click="webrtcData.createConnection()">Start</button>
+	<button id="sendButton" ng-click="webrtcData.sendData()">Send Data</button>
+	<button id="closeButton" ng-click="webrtcData.closeDataChannel()">Stop Send Data</button>
+</div>	
+<div class="panel-wrapper">
+	<div class="panel">
+		<h4>Send data</h4>
+		<textarea name="" id="dataChannelSend" cols="15" rows="5" disabled="true"></textarea>
+	</div>
+	<div class="panel">
+		<h4>Received data</h4>
+		<textarea name="" id="dataChannelReceive" cols="15" rows="5" disabled="true"></textarea>
+	</div>
+</div>

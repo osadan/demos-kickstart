@@ -33,6 +33,16 @@
 					controller : "webrtcController",
 					controllerAs : "webrtc"
 				})
+				.state("webrtc.datachannel",{
+					url : '/datachannel',
+					views : {
+					'@' : 	{
+							templateUrl  : "/templates/webrtc.datachannel.tpl.html",
+							controller : "webRtcDataChannelController",
+							controllerAs : "webrtcData"
+						}
+					}
+				})
 		}])
 		.run([function(){
 			console.log('app start running');
