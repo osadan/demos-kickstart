@@ -43,6 +43,16 @@
 						}
 					}
 				})
+				.state('autocomplete',{
+					url : '/autocomplete',
+					views : {
+						'@' : {
+							templateUrl : '/templates/autocomplete.tpl.html',
+							controller : 'autoCompleteController',
+							controllerAs : "autocomplete"
+						}
+					}
+				})
 		}])
 		.run([function(){
 			console.log('app start running');

@@ -7,7 +7,8 @@
 			self.results = [];
 			self.token = {};
 			self.groupId = 'http://www.google.com/m8/feeds/groups/sadanoh@gmail.com/base/6208bb308f1b9737';
-			self.checkAuth = function (){
+			
+			self.checkAuth = function checkAuth(){
 				contacts.handleClientLoad().then(function(result){
 					var tmp = {};
 					_.each(result,function(value,key){
@@ -29,7 +30,7 @@
 					self.contacts = result;	
 				});
 			}
-			self.displayGroup = function (event){
+			self.displayGroup = function displayGroup(event){
 				var params = [];
 				var groupId = event.target.dataset['itemid'];
 				params.push({group: groupId},{"max-results" : 100 });
