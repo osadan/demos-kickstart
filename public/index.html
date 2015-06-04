@@ -3,28 +3,47 @@
 	<link rel="stylesheet" type="text/css" href="/style.css">
 	
 <link rel="stylesheet" type="text/css" href="/libs/ng-prettyjson/src/ng-prettyjson.css">
+<link rel="stylesheet" href="/css/flags.css"></link>
 
-
+	<script src='/libs/angular/angular.js'></script>
 	<script src="https://apis.google.com/js/client.js"></script>
 
 	<script src='/services/pubnub.js'></script>
-	<script src='/services/contacts.service.js'></script>
-	<script src='/libs/angular/angular.js'></script>
+	
+	<script src='/contacts/contacts.service.js'></script>
+	<script src='/contacts/contact-result.filter.js'></script>
+	<script src='/contacts/gapi.service.js'></script>
+	<script src='/contacts/google-api-connection.service.js'></script>
+	<script src='/contacts/group-result.filter.js'></script>
+	<script src='/contacts/contacts.package.js'></script>
+	
+
+
+	
 	<script src='/libs/angular-animate/angular-animate.js'></script>
 	<script src='/libs/angular-modal-service/dst/angular-modal-service.js'></script>
 	<script src='/libs/angular-ui-router/release/angular-ui-router.js'></script>
 	<script src='/libs/lodash/dist/lodash.js'></script>
 	<script src='/libs/pubnub-angular/lib/pubnub-angular.js'></script>
 	
+	
+
 	<script src='/script.js'></script>
 	
 	<script src='/controllers/pubnub.controller.js'></script>
 	<script src='/controllers/contacts.controller.js'></script>
 	<script src='/controllers/webrtc.controller.js'></script>
 	<script src='/controllers/webrtc.datachannel.controller.js'></script>
+	<script src='/controllers/custom-directives.controller.js'></script>
 	
+	
+
+
 	<script src='directives/menu/menu.directive.js'></script>
+	<script src='directives/typeahead/typeahead.directive.js'></script>
+	<script src='directives/typeahead/typeahead-item.directive.js'></script>
 	<script type="text/javascript" src="/libs/ng-prettyjson/src/ng-prettyjson.js"></script>
+	<script src='directives/dropdown/dropdown.directive.js'></script>
 
 </head>
 <body ng-app='demo' ng-controller='demoController'>

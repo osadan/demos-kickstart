@@ -1,0 +1,12 @@
+<div ng-if='flags.selectedItem !== undefined' class='f16'>
+    <span class="flag" ng-class='flags.selectedItem.class'></span>
+    <span>{{flags.selectedItem.label}}</span>
+</div>
+<div ng-click='flags.toggle()'>
+    click to display</div>
+<ul ng-show='flags.display' class='f32'>
+    <li ng-repeat="item in flags.list" ng-click='flags.select(item)'>
+        <span class="flag" ng-class='item.class'></span>
+        <span>{{::item.label}}</span>
+    </li>
+</ul>

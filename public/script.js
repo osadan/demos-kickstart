@@ -1,16 +1,17 @@
 ;(function () {
 	'use strict';
-	angular.module('oss',[])
-		.provider('contacts', oss.service.contacts)
+	
 	angular.module('demo',[
-		'oss',
+		'oss.contacts',
 		'ui.router',
 		'ngAnimate',
 		"pubnub.angular.service",
 		'angularModalService',
 		'ngPrettyJson'
 		])
-		.config(["$stateProvider",function($stateProvider){
+		.config(["$stateProvider",'contactsProvider',function($stateProvider,contactsProvider){
+		 	
+		 	
 			$stateProvider
 				.state('main',{
 					url : '/',
@@ -40,6 +41,16 @@
 							templateUrl  : "/templates/webrtc.datachannel.tpl.html",
 							controller : "webRtcDataChannelController",
 							controllerAs : "webrtcData"
+						}
+					}
+				})
+				.state('directives',{
+					url : "/directives",
+					views : {
+						'@' : {
+							templateUrl : "/templates/custom-directive.tpl.html",
+							controller : "customDirectiveController",
+							controllerAs : 'custom'
 						}
 					}
 				})

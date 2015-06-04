@@ -1,0 +1,40 @@
+<div class="container">
+    <h1>custom directives</h1>
+    <div class="directive">
+        <h2>dropdown</h2>
+        <p>{{custom.flagsList}}</p>
+        <p>{{custom.selectedItem}}</p>
+        <div class="display">
+            <!-- <div typeahead="" list="custom.flagsList" display-key="label" prompt="" list-container-class="flags-container" item-selected="custom.flagSelected(item)">
+                <div class='click-target' ng-click='typeahead.toggleView()'>
+                    {{custom.selectedItem}} {{typeahead.selectedItem}}
+                    <div ng-if='typeahead.selectedItem !== undefined' class='f16'>
+                        <span class="flag" ng-class='typeahead.selectedItem.class'></span>
+                        <span>{{typeahead.selectedItem.label}}</span>
+                    </div>
+                    <span>click to display</span>
+                </div>
+                <ul class='flages-container' ng-show="typeahead.clickView()">
+                    <li typeahead-item class="autocomplete-item f32" ng-repeat='item in typeahead.list track by item.label' item="{{::item}}" index="{{$index}}" ng-class="{'selected':typeahead.isCurrent($index)}">
+                        <span class="flag" ng-class='item.class'></span>
+                        <span>{{::item.label}}</span>
+                    </li>
+                    <ul>
+            </div>
+         </div>-->
+         <div dropdown-flags list='custom.flagsList' selected='custom.selectFlag(item)'>
+           
+         </div>
+            <!-- <div ng-if='custom.selectedItem !== undefined' class='f16'>
+                <span class="flag" ng-class='custom.selectedItem.class'></span>
+                <span>{{custom.selectedItem.label}}</span>
+            </div>
+            <div ng-click='custom.toggleDisplay()'>click to display</div>
+            <ul ng-show='custom.display' class='f32'>
+                <li ng-repeat="item in custom.flagsList" ng-click='custom.selectFlag(item)'>
+                    <span class="flag" ng-class='item.class'></span>
+                    <span>{{::item.label}}</span>
+                </li>
+            </ul> -->
+        </div>
+    </div>

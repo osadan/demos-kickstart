@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"to",
+				"toDisplay"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
 				"data",
 				"datachannel"
 			],
@@ -396,34 +404,50 @@
 	"buffers":
 	[
 		{
-			"file": "public/script.js",
+			"file": "public/templates/custom-directive.tpl.html",
 			"settings":
 			{
-				"buffer_size": 1557,
+				"buffer_size": 2147,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/templates/autocomplete.tpl.html",
+			"file": "public/directives/dropdown/dropdown.directive.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1442,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/controllers/autocomplete.controller.js",
+			"file": "public/directives/dropdown/dropdown.tpl.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 460,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/controllers/contacts.controller.js",
+			"file": "public/directives/typeahead/typeahead.directive.js",
 			"settings":
 			{
-				"buffer_size": 1272,
+				"buffer_size": 9040,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/controllers/custom-directives.controller.js",
+			"settings":
+			{
+				"buffer_size": 706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/flags.css",
+			"settings":
+			{
+				"buffer_size": 20914,
 				"line_ending": "Unix"
 			}
 		}
@@ -550,25 +574,32 @@
 		"/Users/ohad1/Documents/projects/demos/angular/app",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/css",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/menu",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/services",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates",
-		"/Users/ohad1/Documents/projects/demos/angular/app/server"
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/images",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/libs",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates"
 	],
 	"file_history":
 	[
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/index.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/style.css",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/css/flags.css",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/typeahead/typeahead-item.directive.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/custom-directives.controller.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/script.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/contacts.controller.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/menu/menu.tpl.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/autocomplete.tpl.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/autocomplete.controller.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/dropdown/dropdown.tpl.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/dropdown/dropdown.directive.js",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/webrtc.datachannel.tpl.html",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/webrtc.controller.js",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/script.js",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/webrtc.tpl.html",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/webrtc.datachannel.controller.js",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/menu/menu.tpl.html",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/index.html",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/menu/menu.directive.js",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/style.css",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/contacts.tpl.html",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/contacts.controller.js",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/services/contacts.service.js",
 		"/Users/ohad1/Documents/projects/fonedo/development/client/public/index.js",
 		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-util/lib/isNull.js",
@@ -678,14 +709,7 @@
 		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/lib/node-http-proxy/routing-proxy.js",
 		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/utn-datacorp-sgc-root-ca.pem",
 		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/setup.scss",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/server.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/sublime-gulp.log",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/.bin/gulp",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/chai/lib/chai/utils/objDisplay.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/memoizee/ext/dispose.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/dailer/.bowerrc",
-		"/Users/ohad1/Documents/projects/fonedo/development/dailer/bower.json",
-		"/Users/ohad1/Documents/projects/fonedo/development/dailer/public/index.thnl"
+		"/Users/ohad1/Documents/projects/fonedo/development/client/server.js"
 	],
 	"find":
 	{
@@ -712,6 +736,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dropdown",
+			"todis",
+			"displayStatus",
 			"console.log",
 			"false",
 			"register",
@@ -836,10 +863,7 @@
 			"forword",
 			"number",
 			"companyName",
-			"epartmentid",
-			"$scope.addUser",
-			"addUser",
-			"showModal(department"
+			"epartmentid"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -859,88 +883,62 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "public/script.js",
+					"file": "public/templates/custom-directive.tpl.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1557,
+						"buffer_size": 2147,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1359,
-								1359
+								1485,
+								1485
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 243.0,
+						"translation.y": 304.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "public/templates/autocomplete.tpl.html",
+					"file": "public/directives/dropdown/dropdown.directive.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1442,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								606,
+								606
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "public/controllers/autocomplete.controller.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -950,32 +948,133 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "public/controllers/contacts.controller.js",
+					"file": "public/images/flags16.png",
+					"semi_transient": true,
+					"stack_index": 0,
+					"type": "image"
+				},
+				{
+					"buffer": 2,
+					"file": "public/directives/dropdown/dropdown.tpl.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1272,
+						"buffer_size": 460,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								520,
-								520
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/directives/typeahead/typeahead.directive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8647,
+								8647
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 8.0,
+						"translation.x": -0.0,
+						"translation.y": 1063.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "public/controllers/custom-directives.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/css/flags.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								20914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -998,11 +1097,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.554500747012,
 			1.0
 		],
 		"rows":
@@ -1037,6 +1143,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"flag",
+				"public/css/flags.css"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				".css",
+				"public/css/flags.css"
+			],
+			[
+				"type",
+				"public/directives/typeahead/typeahead.directive.js"
+			],
 			[
 				"scrip",
 				"public/script.js"
@@ -1078,16 +1204,8 @@
 				"public/src/app/components/call/controllers/call-modal.controller.js"
 			],
 			[
-				"inde",
-				"public/index.html"
-			],
-			[
 				"config",
 				"public/src/core/config.service.js"
-			],
-			[
-				"index",
-				"public/index.js"
 			],
 			[
 				"dail",
@@ -1536,18 +1654,6 @@
 			[
 				"index.js",
 				"public/index.js"
-			],
-			[
-				"index.html",
-				"public/index.html"
-			],
-			[
-				"call-log.ser",
-				"public/src/core/call-log.service.js"
-			],
-			[
-				"utils.",
-				"public/src/core/utils.service.js"
 			]
 		],
 		"width": 0.0
