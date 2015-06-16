@@ -30,6 +30,13 @@
 					self.contacts = result;	
 				});
 			}
+
+			self.createContact = function createContact(){
+				contacts.creataContact().then(function(result){
+					console.log(result);
+					debugger;
+				})
+			}
 			
 			self.displayGroup = function displayGroup(event){
 				var params = [];

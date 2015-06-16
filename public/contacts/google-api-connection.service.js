@@ -57,12 +57,16 @@ oss.service.googleApiConnection = (function() {
             loadDeffered.resolve();
         }
 
-        self.request = function request(type,params){
+        self.request = function request(type,params,method){
+            
             if(!oauthToken.access_token){
                 self.handleAuthClick()
             }
             if(!params){
                 var params = [];
+            }
+            if(!method){
+                method = 'GET';
             }
             params.push({alt : 'json'});
             params.push({v : "3.0"});
@@ -74,9 +78,26 @@ oss.service.googleApiConnection = (function() {
 
             var path = mainApiPath + type + '/default/full?' + queryString.join("&");
             return $http({
-                method : "GET",
+                method : method,
                 url : path
             });
+        }
+
+        self.create = function create(data){
+            return $http({
+                url : mainApiPath +  'contacts/default/full/',
+                method : 'post',
+                headers : {
+                    'Content-Type' : "application/atom+xml",
+                    'GData-Version' : '3.0',
+                    'Authorization' : 'Bearer ' + oauthToken.access_token,
+
+
+                },
+                transformRequest : function(data){
+                    return data;
+                }
+            })
         }
 
         self.disconnect = function disconnect(access_token){

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"GoogleApi",
+				"GoogleApiConnection"
+			],
+			[
 				"to",
 				"toDisplay"
 			],
@@ -404,50 +408,99 @@
 	"buffers":
 	[
 		{
-			"file": "public/templates/custom-directive.tpl.html",
+			"file": "public/contacts/contacts.service.js",
 			"settings":
 			{
-				"buffer_size": 2147,
+				"buffer_size": 8570,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/directives/dropdown/dropdown.directive.js",
+			"file": "public/contacts/contacts.package.js",
 			"settings":
 			{
-				"buffer_size": 1442,
+				"buffer_size": 956,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/directives/dropdown/dropdown.tpl.html",
+			"file": "public/templates/contacts.tpl.html",
 			"settings":
 			{
-				"buffer_size": 460,
+				"buffer_size": 1357,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/directives/typeahead/typeahead.directive.js",
+			"file": "public/controllers/contacts.controller.js",
 			"settings":
 			{
-				"buffer_size": 9040,
+				"buffer_size": 1643,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/controllers/custom-directives.controller.js",
+			"file": "public/script.js",
 			"settings":
 			{
-				"buffer_size": 706,
+				"buffer_size": 1786,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/css/flags.css",
+			"file": "public/contacts/group-result.filter.js",
 			"settings":
 			{
-				"buffer_size": 20914,
+				"buffer_size": 802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/libs/angular/angular.js",
+			"settings":
+			{
+				"buffer_size": 960319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/contacts/contact-result.filter.js",
+			"settings":
+			{
+				"buffer_size": 1418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/contacts/google-api-connection.service.js",
+			"settings":
+			{
+				"buffer_size": 3382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs/atom-entry.xml",
+			"settings":
+			{
+				"buffer_size": 1473,
+				"line_ending": "Unix",
+				"name": "<atom:entry xmlns:atom='http://www.w3.org/2005/Ato"
+			}
+		},
+		{
+			"file": "public/contacts/gapi.service.js",
+			"settings":
+			{
+				"buffer_size": 111,
 				"line_ending": "Unix"
 			}
 		}
@@ -459,10 +512,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 207.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"gits",
+				"Git: Commit history"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Advanced Install Package"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -508,14 +573,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"package",
 				"Package Control: Add Repository"
 			],
@@ -548,7 +605,7 @@
 				"File: Close All"
 			]
 		],
-		"width": 467.0
+		"width": 428.0
 	},
 	"console":
 	{
@@ -572,28 +629,32 @@
 	"expanded_folders":
 	[
 		"/Users/ohad1/Documents/projects/demos/angular/app",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/css",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/images",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/libs",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates"
+		"/Users/ohad1/Documents/projects/demos/angular/app/docs"
 	],
 	"file_history":
 	[
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/index.html",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/style.css",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/css/flags.css",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/typeahead/typeahead-item.directive.js",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/custom-directives.controller.js",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/script.js",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/contacts.controller.js",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/menu/menu.tpl.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/typeahead/typeahead.directive.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/typeahead/typeahead-item.directive.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/index.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/google-api-connection.service.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/script.js",
+		"/Users/ohad1/Documents/projects/demos/deletemequick/server.js",
+		"/Users/ohad1/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/ohad1/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ohad1/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/ohad1/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/autocomplete.tpl.html",
-		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/autocomplete.controller.js",
+		"/Users/ohad1/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/ohad1/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/dropdown/dropdown.tpl.html",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/dropdown/dropdown.directive.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/custom-directive.tpl.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/custom-directives.controller.js",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/css/flags.css",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/style.css",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/directives/menu/menu.tpl.html",
+		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/autocomplete.controller.js",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/webrtc.datachannel.tpl.html",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/webrtc.controller.js",
 		"/Users/ohad1/Documents/projects/demos/angular/app/public/templates/webrtc.tpl.html",
@@ -699,17 +760,7 @@
 		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupStageOne.controller.js",
 		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupStageFour.controller.js",
 		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/setup/setupMain.controller.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/site/site.controller.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/docs/CallController.php",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/gulp-scp2/node_modules/scp2/node_modules/glob/test/root.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/verisign-class-1-public-primary-certification-authority.pem",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/chai/CONTRIBUTING.md",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/test/ws/routing-table-test.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/test/http/routing-table-test.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/karma/node_modules/http-proxy/lib/node-http-proxy/routing-proxy.js",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/node_modules/ssl-root-cas/pems/utn-datacorp-sgc-root-ca.pem",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/public/sass/setup.scss",
-		"/Users/ohad1/Documents/projects/fonedo/development/client/server.js"
+		"/Users/ohad1/Documents/projects/fonedo/development/client/public/src/app/components/site/site.controller.js"
 	],
 	"find":
 	{
@@ -736,6 +787,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"transformRequest",
+			"$http",
+			"nglocale",
+			"module(\"o",
+			"module('o",
+			"\"oss\"",
+			"'oss'",
+			"oss",
+			"service",
+			"clientSecret",
+			"clientID",
+			"_clientId",
+			"clientId",
 			"dropdown",
 			"todis",
 			"displayStatus",
@@ -850,20 +914,7 @@
 			"console.log('loaded')",
 			"console.log",
 			"orderList",
-			"getUsersNotInDepartment",
-			"validation",
-			"index",
-			"updateUsers",
-			"cretat",
-			"window",
-			"emptyUserObject",
-			"isContinue",
-			"self",
-			"getdepart",
-			"forword",
-			"number",
-			"companyName",
-			"epartmentid"
+			"getUsersNotInDepartment"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -883,62 +934,33 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 8,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "public/templates/custom-directive.tpl.html",
+					"file": "public/contacts/contacts.service.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2147,
+						"buffer_size": 8570,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1485,
-								1485
+								411,
+								411
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 304.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "public/directives/dropdown/dropdown.directive.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1442,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								606,
-								606
-							]
-						],
-						"settings":
-						{
-							"history_list_is_closing": true,
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/contacts.service.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -948,101 +970,125 @@
 					"type": "text"
 				},
 				{
-					"file": "public/images/flags16.png",
-					"semi_transient": true,
-					"stack_index": 0,
-					"type": "image"
-				},
-				{
-					"buffer": 2,
-					"file": "public/directives/dropdown/dropdown.tpl.html",
+					"buffer": 1,
+					"file": "public/contacts/contacts.package.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 460,
+						"buffer_size": 956,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								57,
-								57
+								14,
+								14
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"_anf_new": "",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/contacts.package.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "public/directives/typeahead/typeahead.directive.js",
+					"buffer": 2,
+					"file": "public/templates/contacts.tpl.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9040,
+						"buffer_size": 1357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8647,
-								8647
+								358,
+								358
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/templates/contacts.tpl.html",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
-						"translation.x": -0.0,
-						"translation.y": 1063.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 4,
-					"file": "public/controllers/custom-directives.controller.js",
+					"buffer": 3,
+					"file": "public/controllers/contacts.controller.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 706,
+						"buffer_size": 1643,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								363,
-								363
+								931,
+								931
 							]
 						],
 						"settings":
 						{
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/controllers/contacts.controller.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
+						"translation.y": 161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/script.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 33.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -1051,11 +1097,109 @@
 				},
 				{
 					"buffer": 5,
-					"file": "public/css/flags.css",
+					"file": "public/contacts/group-result.filter.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20914,
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/contacts/group-result.filter.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/libs/angular/angular.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 960319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332541,
+								332570
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/libs/angular/angular.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 139978.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/contacts/contact-result.filter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1412,
+								1412
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/contact-result.filter.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1934,
 						"regions":
 						{
 						},
@@ -1063,18 +1207,251 @@
 						[
 							[
 								0,
-								20914
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/index.html",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "public/contacts/google-api-connection.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2572,
+								2572
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/google-api-connection.service.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 4.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "docs/atom-entry.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1473,
+								1460
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<atom:entry xmlns:atom='http://www.w3.org/2005/Ato",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/docs/atom-entry.xml",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/contacts/contacts.package.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								949,
+								949
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/contacts.package.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/contacts/gapi.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/gapi.service.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/contacts/group-result.filter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/contacts/group-result.filter.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/contacts/contact-result.filter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1418,
+								1418
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/contact-result.filter.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/contacts/google-api-connection.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1806,
+								1806
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/ohad1/Documents/projects/demos/angular/app/public/contacts/google-api-connection.service.js",
+							"git_savvy.repo_path": "/Users/ohad1/Documents/projects/demos/angular/app",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 55.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
 					"type": "text"
 				}
 			]
@@ -1108,7 +1485,7 @@
 		"cols":
 		[
 			0.0,
-			0.554500747012,
+			0.611497064725,
 			1.0
 		],
 		"rows":
@@ -1118,6 +1495,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -1144,16 +1525,116 @@
 		"selected_items":
 		[
 			[
-				"index",
+				"index.h",
 				"public/index.html"
 			],
 			[
-				"flag",
-				"public/css/flags.css"
+				"contac.pa",
+				"public/contacts/contacts.package.js"
+			],
+			[
+				"cont",
+				"public/contacts/contacts.service.js"
+			],
+			[
+				"contacts.con",
+				"public/controllers/contacts.controller.js"
+			],
+			[
+				"conta.tp",
+				"public/templates/contacts.tpl.html"
+			],
+			[
+				"angular.",
+				"public/libs/angular/angular.js"
+			],
+			[
+				"xml",
+				"docs/atom-entry.xml"
+			],
+			[
+				"google",
+				"public/contacts/google-api-connection.service.js"
+			],
+			[
+				"scr",
+				"public/script.js"
 			],
 			[
 				"inde",
 				"public/index.html"
+			],
+			[
+				"cont-fil",
+				"public/contacts/contact-result.filter.js"
+			],
+			[
+				"cont-re",
+				"public/contacts/contact-result.filter.js"
+			],
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"group",
+				"public/contacts/group-result.filter.js"
+			],
+			[
+				"con",
+				"public/contacts/contacts.service.js"
+			],
+			[
+				".pack",
+				"public/contacts/contacts.package.js"
+			],
+			[
+				"",
+				"public/contacts/contact-result.filter.js"
+			],
+			[
+				"goo",
+				"public/contacts/google-api-connection.service.js"
+			],
+			[
+				"script",
+				"public/script.js"
+			],
+			[
+				"con.pa",
+				"public/contacts/contacts.package.js"
+			],
+			[
+				"gapi",
+				"public/contacts/gapi.service.js"
+			],
+			[
+				".package.",
+				"public/contacts/contacts.package.js"
+			],
+			[
+				"api",
+				"public/contacts/google-api-connection.service.js"
+			],
+			[
+				"sc",
+				"public/script.js"
+			],
+			[
+				"contac",
+				"public/contacts/contacts.package.js"
+			],
+			[
+				"tpl",
+				"public/templates/autocomplete.tpl.html"
+			],
+			[
+				"contact",
+				"public/services/contacts.service.js"
+			],
+			[
+				"flag",
+				"public/css/flags.css"
 			],
 			[
 				".css",
@@ -1170,10 +1651,6 @@
 			[
 				"menu",
 				"public/directives/menu/menu.tpl.html"
-			],
-			[
-				"scr",
-				"public/script.js"
 			],
 			[
 				"datach",
@@ -1194,14 +1671,6 @@
 			[
 				"in",
 				"public/index.html"
-			],
-			[
-				"contacts.con",
-				"public/controllers/contacts.controller.js"
-			],
-			[
-				"",
-				"public/src/app/components/call/controllers/call-modal.controller.js"
 			],
 			[
 				"config",
@@ -1420,10 +1889,6 @@
 				"public/src/core/xms-manager.service.js"
 			],
 			[
-				"con",
-				"public/src/core/config.service.js"
-			],
-			[
 				"dialogi",
 				"public/src/core/dialogic.webrtc.client.js"
 			],
@@ -1504,10 +1969,6 @@
 				"public/src/core/config.service.js"
 			],
 			[
-				"index.h",
-				"public/index.html"
-			],
-			[
 				"appmentpl",
 				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
 			],
@@ -1574,86 +2035,6 @@
 			[
 				"_par",
 				"public/sass/_partial.scss"
-			],
-			[
-				"call-row",
-				"public/src/app/components/webApp/directives/callLogRow/call-log-row.tpl.html"
-			],
-			[
-				"call.tpl",
-				"public/src/app/components/webApp/templates/call-history.tpl.html"
-			],
-			[
-				"modalac",
-				"public/src/app/components/setup/modalAccountingDepartments.controller.js"
-			],
-			[
-				"usersli",
-				"public/src/core/usersList.service.js"
-			],
-			[
-				"userslis",
-				"test/usersList.spec.js"
-			],
-			[
-				"stage3boy",
-				"public/src/app/components/setup/templates/stage3Body.tpl.html"
-			],
-			[
-				"4bo",
-				"public/src/app/components/setup/templates/stage4Body.tpl.html"
-			],
-			[
-				"3bod",
-				"public/src/app/components/setup/templates/stage3Body.tpl.html"
-			],
-			[
-				"3tit",
-				"public/src/app/components/setup/templates/stage3Title.tpl.html"
-			],
-			[
-				"flexbox",
-				"public/sass/_flexbox.scss"
-			],
-			[
-				"address-sear",
-				"public/src/app/directives/addressSearchBox/address-search-box.tpl.html"
-			],
-			[
-				"2titl",
-				"public/src/app/components/setup/templates/stage2Title.tpl.html"
-			],
-			[
-				"2boy",
-				"public/src/app/components/setup/templates/stage2Body.tpl.html"
-			],
-			[
-				"1titl",
-				"public/src/app/components/setup/templates/stage1Title.tpl.html"
-			],
-			[
-				"body",
-				"public/src/app/components/setup/templates/stage1Body.tpl.html"
-			],
-			[
-				"menu.tpl",
-				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
-			],
-			[
-				"style.sc",
-				"public/sass/style.scss"
-			],
-			[
-				"menu.t",
-				"public/src/app/components/webApp/directives/webAppMenu/webapp-menu.tpl.html"
-			],
-			[
-				"infin",
-				"public/libs/ngInfiniteScroll/build/ng-infinite-scroll.js"
-			],
-			[
-				"index.js",
-				"public/index.js"
 			]
 		],
 		"width": 0.0
@@ -1687,7 +2068,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 276.0,
 	"status_bar_visible": true,
 	"template_settings":
